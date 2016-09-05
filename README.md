@@ -4,4 +4,4 @@ and MySQL as the relational database. Endpoints: Json.
 
 A sample jUnit test case included for UserService.
 
-Made by Alexandra Aasen, Email: alexaasen@outlook.com
+Made as the end group project for the course Java Webservices. Alexandra Aasen, Email: alexaasen@outlook.com
